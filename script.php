@@ -112,9 +112,9 @@ class Db {
 	public $logger;
 
 	private $servername = "localhost";
-	private $username   = "root";
-	private $password   = "sathyabaman";
-	private $database   = "ivrdatabase";
+	private $username   = "";
+	private $password   = "";
+	private $database   = "";
 
 	public function __construct($logger){
 		$this->logger = $logger;

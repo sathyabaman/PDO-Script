@@ -1,0 +1,2912 @@
+
+-------- March 21, 2016, 11:17 am ------------
+Device Name :  
+Device Assigned Name :  
+manufacturer :  
+IMEI :  
+From : Chankanai 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 12:59 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250866,79.8558346 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:00 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250975,79.8558127 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:01 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250975,79.8558127 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:01 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250975,79.8558127 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:02 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250975,79.8558127 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:02 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250975,79.8558127 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:03 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251289,79.8557908 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:03 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Karaveddy 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251289,79.8557908 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:04 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Karaveddy 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251289,79.8557908 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 1:04 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Karaveddy 
+Radius : 7 
+Type : Sivan 
+Limit : 4 
+From Latlng : 6.9251289,79.8557908 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 9:48 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 3 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 9:51 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:03 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:06 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:08 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 100 
+Type : Murugan 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:20 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 100 
+Type : Murugan 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:39 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 100 
+Type : Murugan 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:39 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 100 
+Type : Murugan 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:40 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 10 
+Type : Murugan 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:52 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 2 
+Type : All 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:52 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 2 
+Type : All 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:53 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 2 
+Type : All 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:53 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 2 
+Type : All 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:54 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 40 
+Type : All 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:57 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 7 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:57 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 30 
+Type : Ayyappan 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 21, 2016, 10:59 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Kilinochchi 
+Radius : 30 
+Type : Murugan 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:28 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:28 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:28 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 8 
+Type : Anchaneyar 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:29 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 8 
+Type : Anchaneyar 
+Limit : 20 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:34 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:37 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:37 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:38 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:38 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:44 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : nolatlng 
+Latitude : 6.924832 
+Longitude : 79.855990
+
+-------- March 22, 2016, 7:44 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Ayyappan 
+Limit : 25 
+From Latlng : 6.8350648,79.8652601 
+Latitude : 6.8350648 
+Longitude : 79.8652601
+
+-------- March 22, 2016, 8:35 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 5 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 22, 2016, 8:39 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 9.745053 
+Longitude : 79.881946
+
+-------- March 22, 2016, 8:39 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Karainagar 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : nolatlng 
+Latitude : 9.745053 
+Longitude : 79.881946
+
+-------- March 22, 2016, 8:40 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 3 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 22, 2016, 8:41 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 22, 2016, 8:41 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Ayyappan 
+Limit : 6 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 22, 2016, 8:42 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 7 
+Type : Ayyappan 
+Limit : 6 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 22, 2016, 10:48 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Murugan 
+Limit : 3 
+From Latlng : 6.8350672,79.8652638 
+Latitude : 6.8350672 
+Longitude : 79.8652638
+
+-------- March 22, 2016, 10:49 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Murugan 
+Limit : 8 
+From Latlng : 6.8350763,79.8652571 
+Latitude : 6.8350763 
+Longitude : 79.8652571
+
+-------- March 22, 2016, 10:51 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350674,79.8652671 
+Latitude : 6.8350674 
+Longitude : 79.8652671
+
+-------- March 22, 2016, 11:38 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.835043,79.8651988 
+Latitude : 6.835043 
+Longitude : 79.8651988
+
+-------- March 22, 2016, 11:39 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350501,79.8652461 
+Latitude : 6.8350501 
+Longitude : 79.8652461
+
+-------- March 22, 2016, 11:53 am ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8351083,79.8652716 
+Latitude : 6.8351083 
+Longitude : 79.8652716
+
+-------- March 22, 2016, 12:05 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 3 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 22, 2016, 12:13 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 2 
+From Latlng : 6.8350319,79.8652228 
+Latitude : 6.8350319 
+Longitude : 79.8652228
+
+-------- March 22, 2016, 12:14 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.8350753,79.8652601 
+Latitude : 6.8350753 
+Longitude : 79.8652601
+
+-------- March 22, 2016, 12:19 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.8350429,79.8651987 
+Latitude : 6.8350429 
+Longitude : 79.8651987
+
+-------- March 22, 2016, 12:23 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350678,79.8652287 
+Latitude : 6.8350678 
+Longitude : 79.8652287
+
+-------- March 22, 2016, 12:27 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 6 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350804,79.8652592 
+Latitude : 6.8350804 
+Longitude : 79.8652592
+
+-------- March 22, 2016, 12:28 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.8351175,79.865355 
+Latitude : 6.8351175 
+Longitude : 79.865355
+
+-------- March 22, 2016, 12:33 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.8350677,79.865275 
+Latitude : 6.8350677 
+Longitude : 79.865275
+
+-------- March 22, 2016, 12:37 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 2 
+Type : All 
+Limit : 3 
+From Latlng : 6.8350669,79.8652739 
+Latitude : 6.8350669 
+Longitude : 79.8652739
+
+-------- March 22, 2016, 12:37 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350732,79.865257 
+Latitude : 6.8350732 
+Longitude : 79.865257
+
+-------- March 22, 2016, 12:40 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 6 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350601,79.8652782 
+Latitude : 6.8350601 
+Longitude : 79.8652782
+
+-------- March 22, 2016, 12:41 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 6 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350601,79.8652782 
+Latitude : 6.8350601 
+Longitude : 79.8652782
+
+-------- March 22, 2016, 12:41 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 6 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350601,79.8652782 
+Latitude : 6.8350601 
+Longitude : 79.8652782
+
+-------- March 22, 2016, 12:41 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 20 
+Type : Ayyappan 
+Limit : 8 
+From Latlng : 6.8350429,79.8651987 
+Latitude : 6.8350429 
+Longitude : 79.8651987
+
+-------- March 22, 2016, 12:41 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 20 
+Type : Ayyappan 
+Limit : 8 
+From Latlng : 6.8350429,79.8651987 
+Latitude : 6.8350429 
+Longitude : 79.8651987
+
+-------- March 22, 2016, 12:43 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 8 
+Type : Murugan 
+Limit : 4 
+From Latlng : 6.8350433,79.8652519 
+Latitude : 6.8350433 
+Longitude : 79.8652519
+
+-------- March 22, 2016, 12:46 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.8350678,79.8652287 
+Latitude : 6.8350678 
+Longitude : 79.8652287
+
+-------- March 22, 2016, 12:47 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Murugan 
+Limit : 9 
+From Latlng : 6.8350651,79.8652623 
+Latitude : 6.8350651 
+Longitude : 79.8652623
+
+-------- March 22, 2016, 12:48 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Murugan 
+Limit : 15 
+From Latlng : 6.8350422,79.8651991 
+Latitude : 6.8350422 
+Longitude : 79.8651991
+
+-------- March 22, 2016, 12:50 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Anchaneyar 
+Limit : 5 
+From Latlng : 6.8350617,79.8652273 
+Latitude : 6.8350617 
+Longitude : 79.8652273
+
+-------- March 22, 2016, 12:53 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Murugan 
+Limit : 5 
+From Latlng : 6.835061,79.8652566 
+Latitude : 6.835061 
+Longitude : 79.8652566
+
+-------- March 22, 2016, 12:55 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 30 
+Type : Ayyappan 
+Limit : 5 
+From Latlng : 6.8350774,79.8653589 
+Latitude : 6.8350774 
+Longitude : 79.8653589
+
+-------- March 22, 2016, 12:57 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 30 
+Type : Murugan 
+Limit : 5 
+From Latlng : 6.8350713,79.8652785 
+Latitude : 6.8350713 
+Longitude : 79.8652785
+
+-------- March 22, 2016, 12:58 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 6 
+Type : Murugan 
+Limit : 5 
+From Latlng : 6.8350647,79.8652678 
+Latitude : 6.8350647 
+Longitude : 79.8652678
+
+-------- March 22, 2016, 1:01 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Ayyappan 
+Limit : 6 
+From Latlng : 6.8350429,79.8651987 
+Latitude : 6.8350429 
+Longitude : 79.8651987
+
+-------- March 22, 2016, 1:01 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 6 
+Type : Ayyappan 
+Limit : 5 
+From Latlng : 6.8350713,79.8652816 
+Latitude : 6.8350713 
+Longitude : 79.8652816
+
+-------- March 22, 2016, 1:03 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Pillaiyar 
+Limit : 8 
+From Latlng : 6.8350616,79.8652655 
+Latitude : 6.8350616 
+Longitude : 79.8652655
+
+-------- March 22, 2016, 1:05 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Murugan 
+Limit : 8 
+From Latlng : 6.8350772,79.865294 
+Latitude : 6.8350772 
+Longitude : 79.865294
+
+-------- March 22, 2016, 3:55 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 30 
+Type : Ayyappan 
+Limit : 5 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 23, 2016, 10:49 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250923,79.8557829 
+Latitude : 6.9250923 
+Longitude : 79.8557829
+
+-------- March 23, 2016, 10:49 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 1 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 23, 2016, 10:58 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250147,79.8558377 
+Latitude : 6.9250147 
+Longitude : 79.8558377
+
+-------- March 23, 2016, 11:00 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 1 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251361,79.8557519 
+Latitude : 6.9251361 
+Longitude : 79.8557519
+
+-------- March 23, 2016, 11:04 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 23, 2016, 11:09 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 1 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250164,79.8558383 
+Latitude : 6.9250164 
+Longitude : 79.8558383
+
+-------- March 23, 2016, 11:13 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251051,79.8557726 
+Latitude : 6.9251051 
+Longitude : 79.8557726
+
+-------- March 23, 2016, 11:15 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 1 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250148,79.855838 
+Latitude : 6.9250148 
+Longitude : 79.855838
+
+-------- March 23, 2016, 11:19 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250923,79.8557829 
+Latitude : 6.9250923 
+Longitude : 79.8557829
+
+-------- March 23, 2016, 11:21 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 23, 2016, 11:22 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 23, 2016, 11:23 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 23, 2016, 11:29 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250148,79.855838 
+Latitude : 6.9250148 
+Longitude : 79.855838
+
+-------- March 23, 2016, 11:34 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250148,79.855838 
+Latitude : 6.9250148 
+Longitude : 79.855838
+
+-------- March 23, 2016, 12:02 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 5 
+From Latlng : 6.9249194,79.8558961 
+Latitude : 6.9249194 
+Longitude : 79.8558961
+
+-------- March 23, 2016, 12:15 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251012,79.8557746 
+Latitude : 6.9251012 
+Longitude : 79.8557746
+
+-------- March 23, 2016, 12:17 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251012,79.8557746 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:19 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:25 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:32 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:46 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:47 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:49 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250144,79.8558379 
+Latitude : 6.9250144 
+Longitude : 79.8558379
+
+-------- March 23, 2016, 12:50 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250144,79.8558379 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:52 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:53 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:54 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 12:59 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:01 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:03 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:06 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:08 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:12 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:13 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:14 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:18 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:19 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:21 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251036,79.855833 
+Latitude : 6.9251036 
+Longitude : 79.855833
+
+-------- March 23, 2016, 1:22 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 1:24 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 2:35 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 2:42 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 2:54 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 2:57 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 3:00 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 3:18 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 3:21 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 23, 2016, 4:18 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:28 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:28 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:50 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:52 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:55 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:57 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 11:59 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 12:01 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 12:02 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 12:03 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 6 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250148,79.855838 
+Latitude : 6.9250148 
+Longitude : 79.855838
+
+-------- March 24, 2016, 12:16 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 12:32 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 12:34 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 12:35 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 1:00 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250164,79.8558383 
+Latitude : 6.9250164 
+Longitude : 79.8558383
+
+-------- March 24, 2016, 1:03 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 24, 2016, 1:08 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Murugan 
+Limit : 5 
+From Latlng : 6.9251402,79.8557464 
+Latitude : 6.9251402 
+Longitude : 79.8557464
+
+-------- March 24, 2016, 1:12 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 9 
+Type : Ayyappan 
+Limit : 5 
+From Latlng : 6.9250144,79.8558381 
+Latitude : 6.9250144 
+Longitude : 79.8558381
+
+-------- March 24, 2016, 1:25 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 10 
+Type : Ayyappan 
+Limit : 11 
+From Latlng : 6.9251492,79.8557534 
+Latitude : 6.9251492 
+Longitude : 79.8557534
+
+-------- March 24, 2016, 1:26 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Jaffna Town 
+Radius : 10 
+Type : Ayyappan 
+Limit : 11 
+From Latlng : 6.9251492,79.8557534 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 2:39 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 3 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 2:41 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 2:45 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 2:47 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 2:48 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 2:54 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.925108,79.855832 
+Latitude : 6.925108 
+Longitude : 79.855832
+
+-------- March 24, 2016, 3:20 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.925132,79.8557901 
+Latitude : 6.925132 
+Longitude : 79.8557901
+
+-------- March 24, 2016, 3:21 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.925102,79.8558349 
+Latitude : 6.925102 
+Longitude : 79.8558349
+
+-------- March 24, 2016, 3:26 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251369,79.8557947 
+Latitude : 6.9251369 
+Longitude : 79.8557947
+
+-------- March 24, 2016, 3:31 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250634,79.8558326 
+Latitude : 6.9250634 
+Longitude : 79.8558326
+
+-------- March 24, 2016, 3:34 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251766,79.8558265 
+Latitude : 6.9251766 
+Longitude : 79.8558265
+
+-------- March 24, 2016, 3:40 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 3:53 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251763,79.8558269 
+Latitude : 6.9251763 
+Longitude : 79.8558269
+
+-------- March 24, 2016, 3:54 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251763,79.8558269 
+Latitude : 6.9251763 
+Longitude : 79.8558269
+
+-------- March 24, 2016, 3:55 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251763,79.8558269 
+Latitude : 6.9251763 
+Longitude : 79.8558269
+
+-------- March 24, 2016, 3:58 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251547,79.8557639 
+Latitude : 6.9251547 
+Longitude : 79.8557639
+
+-------- March 24, 2016, 4:09 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251242,79.8558152 
+Latitude : 6.9251242 
+Longitude : 79.8558152
+
+-------- March 24, 2016, 4:12 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251007,79.8558328 
+Latitude : 6.9251007 
+Longitude : 79.8558328
+
+-------- March 24, 2016, 4:15 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251121,79.8558325 
+Latitude : 6.9251121 
+Longitude : 79.8558325
+
+-------- March 24, 2016, 4:17 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 24, 2016, 4:20 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.925092,79.8558329 
+Latitude : 6.925092 
+Longitude : 79.8558329
+
+-------- March 24, 2016, 4:21 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250858,79.8558337 
+Latitude : 6.9250858 
+Longitude : 79.8558337
+
+-------- March 24, 2016, 4:25 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250148,79.855838 
+Latitude : 6.9250148 
+Longitude : 79.855838
+
+-------- March 24, 2016, 4:32 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250951,79.8558337 
+Latitude : 6.9250951 
+Longitude : 79.8558337
+
+-------- March 24, 2016, 4:36 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Pillaiyar 
+Limit : 10 
+From Latlng : 6.9251268,79.855792 
+Latitude : 6.9251268 
+Longitude : 79.855792
+
+-------- March 24, 2016, 4:37 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 2 
+Type : Pillaiyar 
+Limit : 10 
+From Latlng : 6.9251527,79.8557786 
+Latitude : 6.9251527 
+Longitude : 79.8557786
+
+-------- March 24, 2016, 4:40 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 10 
+Type : All 
+Limit : 22 
+From Latlng : 6.9251336,79.855754 
+Latitude : 6.9251336 
+Longitude : 79.855754
+
+-------- March 24, 2016, 4:41 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 8 
+Type : All 
+Limit : 22 
+From Latlng : 6.9251441,79.8557883 
+Latitude : 6.9251441 
+Longitude : 79.8557883
+
+-------- March 24, 2016, 4:42 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : All 
+Limit : 22 
+From Latlng : 6.9251441,79.8557883 
+Latitude : 6.9251441 
+Longitude : 79.8557883
+
+-------- March 24, 2016, 5:10 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.9251322,79.8557926 
+Latitude : 6.9251322 
+Longitude : 79.8557926
+
+-------- March 24, 2016, 5:10 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.9251322,79.8557926 
+Latitude : 6.9251322 
+Longitude : 79.8557926
+
+-------- March 24, 2016, 5:12 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.9251322,79.8557926 
+Latitude : 6.9251322 
+Longitude : 79.8557926
+
+-------- March 24, 2016, 5:15 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.9251446,79.8557759 
+Latitude : 6.9251446 
+Longitude : 79.8557759
+
+-------- March 24, 2016, 5:17 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.925148,79.8557799 
+Latitude : 6.925148 
+Longitude : 79.8557799
+
+-------- March 25, 2016, 9:05 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 5 
+Type : Murugan 
+Limit : 12 
+From Latlng : 6.9250991,79.8557908 
+Latitude : 6.9250991 
+Longitude : 79.8557908
+
+-------- March 25, 2016, 9:14 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 7 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 25, 2016, 9:51 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250856,79.8558486 
+Latitude : 6.9250856 
+Longitude : 79.8558486
+
+-------- March 25, 2016, 9:53 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251172,79.8558087 
+Latitude : 6.9251172 
+Longitude : 79.8558087
+
+-------- March 25, 2016, 9:55 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9252135,79.8557641 
+Latitude : 6.9252135 
+Longitude : 79.8557641
+
+-------- March 25, 2016, 9:57 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 25, 2016, 9:58 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.92513,79.8558349 
+Latitude : 6.92513 
+Longitude : 79.8558349
+
+-------- March 25, 2016, 10:29 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250342,79.8558309 
+Latitude : 6.9250342 
+Longitude : 79.8558309
+
+-------- March 25, 2016, 10:29 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 9 
+From Latlng : 6.9250871,79.8558345 
+Latitude : 6.9250871 
+Longitude : 79.8558345
+
+-------- March 25, 2016, 11:44 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9251371,79.8557822 
+Latitude : 6.9251371 
+Longitude : 79.8557822
+
+-------- March 25, 2016, 11:50 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 25, 2016, 11:54 am ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250845,79.8558124 
+Latitude : 6.9250845 
+Longitude : 79.8558124
+
+-------- March 25, 2016, 12:00 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.9250708,79.8558345 
+Latitude : 6.9250708 
+Longitude : 79.8558345
+
+-------- March 25, 2016, 12:02 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 25, 2016, 12:05 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250961,79.8558323 
+Latitude : 6.9250961 
+Longitude : 79.8558323
+
+-------- March 25, 2016, 2:24 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251531,79.8557717 
+Latitude : 6.9251531 
+Longitude : 79.8557717
+
+-------- March 25, 2016, 2:25 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251531,79.8557717 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 25, 2016, 2:46 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251086,79.8558325 
+Latitude : 6.9251086 
+Longitude : 79.8558325
+
+-------- March 25, 2016, 2:46 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Jaffna Town 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251086,79.8558325 
+Latitude : 9.664740 
+Longitude : 80.020788
+
+-------- March 25, 2016, 2:50 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Murugan 
+Limit : 4 
+From Latlng : 6.9251026,79.8558322 
+Latitude : 6.9251026 
+Longitude : 79.8558322
+
+-------- March 25, 2016, 3:57 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 2 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9251349,79.8557774 
+Latitude : 6.9251349 
+Longitude : 79.8557774
+
+-------- March 25, 2016, 4:01 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250935,79.8558351 
+Latitude : 6.9250935 
+Longitude : 79.8558351
+
+-------- March 25, 2016, 4:04 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.9251666,79.8557721 
+Latitude : 6.9251666 
+Longitude : 79.8557721
+
+-------- March 25, 2016, 4:06 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : 6.9250964,79.855835 
+Latitude : 6.9250964 
+Longitude : 79.855835
+
+-------- March 25, 2016, 4:08 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.925128,79.8557942 
+Latitude : 6.925128 
+Longitude : 79.8557942
+
+-------- March 25, 2016, 4:22 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : My GPS Location 
+Radius : 3 
+Type : Amman 
+Limit : 4 
+From Latlng : 6.9250995,79.8557967 
+Latitude : 6.9250995 
+Longitude : 79.8557967
+
+-------- March 25, 2016, 4:22 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 2 
+Type : Anchaneyar 
+Limit : 2 
+From Latlng : 6.9251783,79.8558271 
+Latitude : 6.9251783 
+Longitude : 79.8558271
+
+-------- March 25, 2016, 8:43 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 25, 2016, 8:47 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.8350666,79.8652296 
+Latitude : 6.8350666 
+Longitude : 79.8652296
+
+-------- March 25, 2016, 9:31 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350666,79.8652304 
+Latitude : 6.8350666 
+Longitude : 79.8652304
+
+-------- March 25, 2016, 9:32 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 3 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350666,79.8652304 
+Latitude : 6.8350666 
+Longitude : 79.8652304
+
+-------- March 26, 2016, 3:28 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 7 
+Type : Ayyappan 
+Limit : 3 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 26, 2016, 3:31 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.8350428,79.8651988 
+Latitude : 6.8350428 
+Longitude : 79.8651988
+
+-------- March 26, 2016, 3:32 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Anchaneyar 
+Limit : 3 
+From Latlng : 6.8350429,79.8651987 
+Latitude : 6.8350429 
+Longitude : 79.8651987
+
+-------- March 26, 2016, 3:34 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350217,79.8652447 
+Latitude : 6.8350217 
+Longitude : 79.8652447
+
+-------- March 26, 2016, 3:37 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 4 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8349892,79.8653522 
+Latitude : 6.8349892 
+Longitude : 79.8653522
+
+-------- March 26, 2016, 3:39 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : Chankanai 
+Radius : 6 
+Type : Anchaneyar 
+Limit : 2 
+From Latlng : nolatlng 
+Latitude : 9.748266 
+Longitude : 79.970265
+
+-------- March 26, 2016, 3:52 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 8 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350629,79.8652661 
+Latitude : 6.8350629 
+Longitude : 79.8652661
+
+-------- March 26, 2016, 3:54 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350431,79.8651997 
+Latitude : 6.8350431 
+Longitude : 79.8651997
+
+-------- March 26, 2016, 4:28 pm ------------
+Device Name : SM-G530F 
+Device Assigned Name : Galaxy Grand Prime 
+manufacturer : samsung 
+IMEI : 357209065850006 
+From : My GPS Location 
+Radius : 5 
+Type : Ayyappan 
+Limit : 4 
+From Latlng : 6.8350853,79.8653037 
+Latitude : 6.8350853 
+Longitude : 79.8653037
+
+-------- March 26, 2016, 4:34 pm ------------
+Device Name : SM-G360F 
+Device Assigned Name : Wavenet Ingress W (Gal 
+manufacturer : samsung 
+IMEI : 359149062340114 
+From : Kilinochchi 
+Radius : 100 
+Type : Anchaneyar 
+Limit : 4 
+From Latlng : nolatlng 
+Latitude : 9.390484 
+Longitude : 80.406473
